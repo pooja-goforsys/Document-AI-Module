@@ -1,5 +1,7 @@
-__*
+backend/.pip-tmp/
+.pytest_cache/
+__pycache__/
+venv/
 .env
-node_*
-uploaded_documents/*
-front-chatdoc/node*
+backend/.env
+backend/uploads/
